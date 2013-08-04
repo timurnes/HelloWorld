@@ -13,7 +13,7 @@
 
 int main(void) {
 	int a = 15;
-	printf("!!!Hello World!!! %d\n", a ); /* prints !!!Hello World!!! */
+	printf("!!!Hello World!!! %d\n\n", a ); /* prints !!!Hello World!!! */
 
 	return EXIT_SUCCESS;
 }
